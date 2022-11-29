@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+https://lazysloth181.github.io/react-development/ 
 
 ### Goal and Value of the Application
 I created a bakery ordering website, which shows a variety of menu items for a local bakery. This site provides value for the users by allowing them to choose between different products, and allowing them to easily check the main ingredients and the prices for each of the items. This application also aggregates the prices of the items into a grand total, allowing users to easily price their order.
