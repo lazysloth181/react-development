@@ -1,0 +1,28 @@
+img {
+  align-items: left;
+  width:400px;
+}
+
+.BakeryItem {
+  background-color:rgb(194, 255, 144);
+  color:black;
+  font-size:24px;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px solid black;
+  margin: 20px;
+}
+
+button {
+  background-color: #a4eed7; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  color:rgb(0, 0, 0); 
+  border: 2px solid black;
+}

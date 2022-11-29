@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Blueberry Cake",
+    "description": "Fresh seasonal blueberries on cake.",
+    "price": 7.99,
+    "ingredient": "Blueberry",
+    "type": "Cake",
+    "image": "images/blueberrycake.jpeg"
+  },
+  {
+    "name": "Caramel Ice Cream",
+    "description": "Delectable caramel ice cream.",
+    "price": 2.99,
+    "ingredient": "Caramel",
+    "type": "Ice Cream",
+    "image": "images/caramelicecream.jpeg"
+  },
+  {
+    "name": "Chocolate Chip Sea Salt Cookie",
+    "description": "Freshly baked cookie with gooey chocolate chip and sea salt sprikled on it.",
+    "price": 5.99,
+    "ingredient": "Chocolate",
+    "type": "Cookie",
+    "image": "images/chocchipcookie.jpeg"
+  },
+  {
+    "name": "Chocolate Pudding",
+    "description": "Amazing chocolate pudding.",
+    "price": 3.99,
+    "ingredient": "Chocolate",
+    "type": "Pudding",
+    "image": "images/chocpudding.jpeg"
+  },
+  {
+    "name": "Dessert Assortment",
+    "description": "Assortment of various desserts.",
+    "price": 4.99,
+    "ingredient": "Various",
+    "type": "Assortment",
+    "image": "images/DESSERT.JPG"
+  },
+  {
+    "name": "Chocolate Sprinkled Donut",
+    "description": "Chocolate sprinkled donut.",
+    "price": 2.99,
+    "ingredient": "Chocolate",
+    "type": "Donut",
+    "image": "images/donut.jpeg"
+  },
+  {
+    "name": "Seasonal Fruit Mini Tart",
+    "description": "Strawberry tart with fresh fruit.",
+    "price": 4.99,
+    "ingredient": "Fruit",
+    "type": "Tart",
+    "image": "images/fruitdessert.jpeg"
+  },
+  {
+    "name": "Chocolate Fudge Ice Cream Cake",
+    "description": "Chocolate fudge on a vanilla ice cream cake.",
+    "price": 4.99,
+    "ingredient": "Chocolate",
+    "type": "Ice Cream",
+    "image": "images/fudgeicecreamcake.jpeg"
+  },
+  {
+    "name": "Strawberry Macaron",
+    "description": "Macaron flavored with strawberry (real).",
+    "price": 9.99,
+    "ingredient": "Strawberry",
+    "type": "Macaron",
+    "image": "images/macaron.jpeg"
+  },
+  {
+    "name": "Oreo Cookie Bites",
+    "description": "Cookie bites.",
+    "price": 3.99,
+    "ingredient": "Various",
+    "type": "Cookie",
+    "image": "images/oreocookie.png"
+  },
+  {
+    "name": "Cream Fruit Pudding",
+    "description": "Cream fruit pudding.",
+    "price": 2.99,
+    "ingredient": "Fruit",
+    "type": "Pudding",
+    "image": "images/pudding.jpeg"
+  },
+  {
+    "name": "Strawberry Tart",
+    "description": "Fresh strawberry tart.",
+    "price": 3.45,
+    "ingredient": "Strawberry",
+    "type": "Tart",
+    "image": "images/strawberytart.jpeg"
+  }
+]
